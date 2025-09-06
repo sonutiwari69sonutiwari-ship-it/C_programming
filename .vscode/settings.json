@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "4TH QUE.C": "cpp",
+        "random": "c",
+        "10_SumFrom1To n.C": "cpp"
+    }
+}
